@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 1acc3c3fa2641557f5c9
+  clientSecret: df266d0b27275e11536245f2cc65d5e396564c59 
   repo: Simonxiong7.github.io
   owner: Simonxiong7
 
